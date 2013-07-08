@@ -1,0 +1,15 @@
+
+These tests were pulled from mongo c client repository, and are intended to 
+be used after installing the FreeBSD devel/mongo-c port.
+
+See LICENSE.txt for important License Information
+
+To build all the tests:
+> make
+
+There is no install.
+
+To erase the binaries, 
+> make clean
+
+Waitman Gobble <ns@waitman.net> 7/8/2013
